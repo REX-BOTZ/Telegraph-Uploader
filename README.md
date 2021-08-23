@@ -47,7 +47,7 @@ For creating a post in telegra.ph send any text (for adding the title speperate 
 ## Developer 👨🏻‍💻
 
 [<p align="center">
-<img src="https://telegra.ph/file/661f584f5aecc25011d9b.jpg" width="300">](https://telegram.dog/Ns_AnoNymouS)
+<img src="https://telegra.ph/file/26eccc11250d7b5bd0cc2.jpg" width="300">](https://telegram.dog/Ns_AnoNymouS)
 
 **NAME:** REX BOTZ <br>
 
