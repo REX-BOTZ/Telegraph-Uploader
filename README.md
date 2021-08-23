@@ -10,7 +10,7 @@
 - This bot can upload photos to telegra.ph and give you the link.🏞
 
 ### Our Channels 🧾
-[<p align="left"><img src="https://telegra.ph/file/7156f0a83260d2873e8ba.jpg" width="100">](https://telegram.dog/Ns_bot_updates)
+[<p align="left"><img src="https://telegra.ph/file/7156f0a83260d2873e8ba.jpg" width="100">](https://telegram.dog/REX_BOTZ)
 
 
 ### Easy Way to Deploy
