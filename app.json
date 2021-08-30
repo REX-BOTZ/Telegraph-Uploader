@@ -9,7 +9,7 @@
     "bot",
     "uploader"
   ],
-  "repository": "https://github.com/Ns-AnoNymouS/Telegraph-Uploader",
+  "repository": "https://github.com/REX-BOTZ/Telegraph-Uploader",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
